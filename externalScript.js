@@ -1,5 +1,3 @@
 return(
-    <div>
-        <p>hello kawamura</p>
-    </div>
+    <p>hello kawamura</p>
 );
